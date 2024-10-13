@@ -1,0 +1,55 @@
+:root {
+    --gris-oscuro: #272727;
+    --color-fondo: #DBDADA;
+    --color-secundario-naranja: #f4772e;
+    --naranja-oscuro: rgb(204, 76, 3);
+    --gris: #797676;
+    --gris-claro: #DBDADA;
+    --sombra-cajas: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+        rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    --degradado-naranja: linear-gradient(135deg,
+            rgba(242, 101, 56, 1) 31%,
+            rgba(245, 143, 29, 1) 79%);
+}
+
+.form-select:focus,
+.form-control:focus,
+.form-check-input:focus {
+    border-color: #f4772e !important;
+    box-shadow: 0 0 0 0.2rem rgba(244,
+            119,
+            46, 0.25) !important;
+}
+
+* {
+    font-family: "lato";
+    box-sizing: border-box;
+
+}
+
+body,
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+
+main {
+    position: relative;
+    z-index: 0;
+    flex: 1;
+}
+
+html,
+main,
+header,
+#app {
+    background-color: var(--color-fondo);
+}
