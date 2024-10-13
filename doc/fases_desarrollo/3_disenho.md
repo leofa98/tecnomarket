@@ -1,4 +1,4 @@
-# Deseño
+# Diseño
 
 ## Casos de uso
 

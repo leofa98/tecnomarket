@@ -1,4 +1,4 @@
-# Análise: Requirimentos do sistema
+# Análise: Requisitos del sistema
 
 ## Descripción general
 

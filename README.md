@@ -11,6 +11,7 @@ Además de las funciones básicas de compra, la aplicación ofrece funcionalidad
 - Añadir, modificar y eliminar productos.
 - Gestionar usuarios, permitiendo activar y desactivar cuentas y habilitar y deshabilitar usuarios como administradores.
 - Gestionar pedidos, incluyendo la actualización de su estado.
+- Valorar los productos con puntuación y comentarios.
 
 ## Uso
 
@@ -63,6 +64,8 @@ Además de las funciones básicas de compra, la aplicación ofrece funcionalidad
 
 ![Gestión Inventario](/doc/img/captura-gestion-inventario.jpeg)
 
+![Gestión Inventario](/doc/img/captura-gestion-inventario-2.jpeg)
+
 **Gestión de usuarios (administradores):**
 
 - Desactivar cuentas de usuarios o habilitar usuarios como administradores.
@@ -75,13 +78,16 @@ Además de las funciones básicas de compra, la aplicación ofrece funcionalidad
 
 ![Gestión Pedidos](/doc/img/captura-gestion-pedidos.jpeg)
 
-## Sobre a persoa autora
+![Gestión Pedidos](/doc/img/captura-gestion-pedidos-2.jpeg)
 
-Soy Leonardo, estudiante de Desarrollo de Aplicaciones Web (DAW) con experiencia en tecnologías como Symfony (PHP), Vue.js (Javascript) y bases de datos relacionales.
 
-El objetivo de este proyecto es desarrollar una web que abarque la mayor parte de la materia impartida a lo largo del ciclo. Por esta razón, he decidido crear un tienda web, que incluya tanto el frontend (Vue) como el backend (Symfony), siendo esta la primera vez que abordo ambos aspectos en un mismo proyecto.
+## Sobre la persona autora
 
-Puedes contactarme a través de mi correo electrónico: `a22leonardofa@iessanclemente.net`
+Soy Leonardo, desarrollador web especializado en Desarrollo de Aplicaciones Web (DAW), con experiencia en tecnologías como Symfony (PHP), Vue.js (JavaScript) y bases de datos relacionales.
+
+En este proyecto, mi objetivo ha sido desarrollar una tienda web que abarque los conocimientos adquiridos durante mi formación. Para ello, he implementado tanto el frontend con Vue.js como el backend con Symfony, integrando ambos aspectos por primera vez en un solo proyecto.
+
+Si deseas contactarme, puedes hacerlo a través de mi correo electrónico: leonarfer@hotmail.es
 
 ## Licencia
 
