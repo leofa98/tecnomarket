@@ -2,6 +2,17 @@
 
 Enlace al proyecto: https://tecnomarket2.vercel.app/
 
+**Usuario cliente**
+
+- Usuario: usuario@gmail.com
+- Contraseña: abc123.
+
+
+**Administrador**
+
+- Usuario: admin@gmail.com
+- Contraseña: abc123.
+
 ## Descripción
 
 Este proyecto consiste en una tienda de electrónica desarrollada utilizando una API REST con Symfony, un frontend en Vue y una base de datos relacional mariadb. La aplicación permite la gestión de productos permitiendo a los usuarios navegar, buscar y comprar productos de manera sencilla y rápida.
