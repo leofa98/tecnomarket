@@ -115,9 +115,9 @@ Puedes contribuir en este proyecto:
 
 ## Memoria
 
-1. [Estudio preliminar](doc/templates/1_estudo_preliminar.md)
-2. [Análisis](doc/templates/2_analise.md)
-3. [Diseño](doc/templates/3_deseno.md)
-4. [Planificación y Presupuesto](doc/templates/a3_orzamento.md)
-5. [Codificación y Pruebas](doc/templates/4_codificacion_probas.md)
-6. [Mantenimiento](doc/templates/5_manuais.md)
+1. [Estudio preliminar](doc/fases_desarrollo/1_estudio_preliminar.md)
+2. [Análisis](doc/fases_desarrollo/2_analisis.md)
+3. [Diseño](doc/fases_desarrollo/3_disenho.md)
+4. [Planificación y Presupuesto](doc/fases_desarrollo/a3_presupuesto.md)
+5. [Codificación y Pruebas](doc/fases_desarrollo/4_codificacion_pruebas.md)
+6. [Mantenimiento](doc/fases_desarrollo/5_manuales.md)
