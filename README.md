@@ -75,32 +75,9 @@ A continuación se muestra, con capturas de pantalla, cómo funciona la aplicaci
  
 ![Gestión Pedidos](/doc/img/captura-gestion-pedidos-2.jpeg)
  
- 
-## Sobre el proyecto y su autor
- 
-Soy Leonardo y este es el proyecto con el que cerré mi ciclo de DAW. Mi objetivo era aplicar lo aprendido durante el ciclo en una tienda web completa. Fue la primera vez que integré en un mismo proyecto un backend con Symfony (PHP) y un frontend con Vue.js (JavaScript), conectados mediante una API REST y una base de datos relacional.
- 
-Es un proyecto académico, así que tiene limitaciones propias de ese contexto. Por ejemplo, no hay una plataforma de pago real integrada y la seguridad de la aplicación se puede mejorar.
- 
-Si quieres contactarme, puedes escribirme a leonarfer@hotmail.es
- 
 ## Licencia
  
 Consulta el archivo [LICENSE](LICENSE.md) en la raíz del repositorio.
  
-## Posibles mejoras
- 
-Cosas que quedaron fuera del alcance del proyecto y que se podrían añadir:
- 
-- Integrar una plataforma de pago real.
-- Reforzar la seguridad de la aplicación.
-- Optimizar el código existente y corregir errores.
-## Memoria
- 
-1. [Estudio preliminar](doc/fases_desarrollo/1_estudio_preliminar.md)
-2. [Análisis](doc/fases_desarrollo/2_analisis.md)
-3. [Diseño](doc/fases_desarrollo/3_disenho.md)
-4. [Planificación y Presupuesto](doc/fases_desarrollo/a3_presupuesto.md)
-5. [Codificación y Pruebas](doc/fases_desarrollo/4_codificacion_pruebas.md)
-6. [Mantenimiento](doc/fases_desarrollo/5_manuales.md)
+
  
